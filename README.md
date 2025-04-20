@@ -1,4 +1,6 @@
-# CSC3050 Project3 Report
+# CSC3050 Project3 5 Stage CPU Simulator
+
+This is a forked version of Hao He's [RISC-V Simulator](https://github.com/hehao98/RISCV-Simulator). In this repository, using pages to manage memory is disabled.
 
 ## Summary
 - [x] Part 1 correctness of supporting RISCV32I
